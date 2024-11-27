@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_ZbCRIDSQEe-dAdLdqnwK-w" name="vendeur" id="_Za2q8DSQEe-dAdLdqnwK-w" dataPackage="_ZbLbEDSQEe-dAdLdqnwK-w" Server="Localhost 127.0.0.1" FilePath="C:/Users/hp/Desktop/M2I/S2/DATAWAREHOUSE/DATA/vendeur.xlsx" Encoding="ISO-8859-15" UseHeader="true" HeaderValue="1" FooterValue="0" LimitValue="" FirstLineCaption="true" SheetName="Sheet1" firstColumn="1" lastColumn="" thousandSeparator="," decimalSeparator="." selectAllSheets="true" sheetList="Sheet1:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_ZbLbEDSQEe-dAdLdqnwK-w" name="default" dataManager="_ZbCRIDSQEe-dAdLdqnwK-w">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_ZbLbETSQEe-dAdLdqnwK-w" id="_J8anADSQEe-dAdLdqnwK-w" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ZbLbEjSQEe-dAdLdqnwK-w" label="ID_Vendeur" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ZbLbEzSQEe-dAdLdqnwK-w" label="nom" length="16" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ZbLbFDSQEe-dAdLdqnwK-w" label="adresse" length="31" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ZbLbFTSQEe-dAdLdqnwK-w" label="telephone" length="15" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ZbLbFjSQEe-dAdLdqnwK-w" label="email" length="25" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

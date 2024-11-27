@@ -1,0 +1,109 @@
+[ {
+  "baseItem" : {
+    "id" : "_S7ZwsDSPEe-dAdLdqnwK-w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Za2q8DSQEe-dAdLdqnwK-w",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_Wibi4DVtEe-rSKPfZXTaZA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_0nU94DVBEe-Nu_4k5qC4sg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_YXpm0DVnEe-rSKPfZXTaZA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_YXpm0DVnEe-rSKPfZXTaZA - dim_categorie",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_YXpm0DVnEe-rSKPfZXTaZA - dim_client",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_YXpm0DVnEe-rSKPfZXTaZA - dim_produit",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_YXpm0DVnEe-rSKPfZXTaZA - dim_vendeur",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "__34kwDVEEe-Nu_4k5qC4sg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_0nU94DVBEe-Nu_4k5qC4sg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_YXpm0DVnEe-rSKPfZXTaZA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_0nU94DVBEe-Nu_4k5qC4sg - categorie",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_0nU94DVBEe-Nu_4k5qC4sg - client",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_0nU94DVBEe-Nu_4k5qC4sg - produit",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_0nU94DVBEe-Nu_4k5qC4sg - temp",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_0nU94DVBEe-Nu_4k5qC4sg - vendeur",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_hRRP0DPbEe-sUeJIeFj_Pg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_UzYskDS8Ee-Nu_4k5qC4sg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_V0t2cDSrEe-Nu_4k5qC4sg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_VBpcsDVZEe-Nu_4k5qC4sg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_nBKoMDVXEe-Nu_4k5qC4sg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_z9x7wDSrEe-Nu_4k5qC4sg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_zZNjMDS4Ee-Nu_4k5qC4sg",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+} ]

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_Wibi4TVtEe-rSKPfZXTaZA" id="_Wibi4DVtEe-rSKPfZXTaZA" label="Fact_Job" version="0.1" statusCode="" item="_Wibi4zVtEe-rSKPfZXTaZA" displayName="Fact_Job">
+    <author href="../talend.project#_DFC8ADSPEe-dAdLdqnwK-w"/>
+    <additionalProperties xmi:id="_Wii3oDVtEe-rSKPfZXTaZA" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_Wii3oTVtEe-rSKPfZXTaZA" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_Wii3ojVtEe-rSKPfZXTaZA" key="created_date" value="2024-06-28T18:42:05.210+0200"/>
+    <additionalProperties xmi:id="_Wii3ozVtEe-rSKPfZXTaZA" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_Wii3pDVtEe-rSKPfZXTaZA" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_Wii3pTVtEe-rSKPfZXTaZA" key="modified_date" value="2024-06-29T20:39:13.985+0200"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_Wibi4jVtEe-rSKPfZXTaZA" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_Wibi4zVtEe-rSKPfZXTaZA" property="_Wibi4TVtEe-rSKPfZXTaZA" state="_Wibi4jVtEe-rSKPfZXTaZA">
+    <process href="Fact_Job_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

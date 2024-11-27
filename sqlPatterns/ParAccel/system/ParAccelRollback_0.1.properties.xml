@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_ER6-0DSPEe-dAdLdqnwK-w" id="_ER6XwDSPEe-dAdLdqnwK-w" label="ParAccelRollback" version="0.1" item="_ER6-0jSPEe-dAdLdqnwK-w">
+    <author href="../../../talend.project#_DFC8ADSPEe-dAdLdqnwK-w"/>
+    <additionalProperties xmi:id="_ER8M8DSPEe-dAdLdqnwK-w" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_ER8M8TSPEe-dAdLdqnwK-w" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_ER8M8jSPEe-dAdLdqnwK-w" key="created_date" value="2024-06-27T16:10:54.399+0200"/>
+    <additionalProperties xmi:id="_ER8M8zSPEe-dAdLdqnwK-w" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_ER8M9DSPEe-dAdLdqnwK-w" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_ER8M9TSPEe-dAdLdqnwK-w" key="modified_date" value="2024-06-27T16:10:54.399+0200"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_ER6-0TSPEe-dAdLdqnwK-w" path="ParAccel/system"/>
+  <TalendProperties:SQLPatternItem xmi:id="_ER6-0jSPEe-dAdLdqnwK-w" property="_ER6-0DSPEe-dAdLdqnwK-w" state="_ER6-0TSPEe-dAdLdqnwK-w" system="true" eltName="ParAccel">
+    <content href="ParAccelRollback_0.1.item#/"/>
+  </TalendProperties:SQLPatternItem>
+</xmi:XMI>

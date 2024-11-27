@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:DatabaseConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_twPhwDV3Ee-rSKPfZXTaZA" name="vente" id="_r30nkDV3Ee-rSKPfZXTaZA" label="vente" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://127.0.0.1:3306/data_warehouse_vente?noDatetimeStringSync=true" dbVersionString="MYSQL_8" Port="3306" Username="root" Password="enc:system.encryption.key.v1:ezAMDH/eQCbAwcNXFwOWopQfXojdmu63hZk6W8izHF6TDykaaS99awNcx5o=" ServerName="127.0.0.1" SID="data_warehouse_vente" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false">
+  <taggedValue xmi:id="_twPhwTV3Ee-rSKPfZXTaZA" tag="Is Conn Need Reload" value="false"/>
+  <taggedValue xmi:id="_twxtQDV3Ee-rSKPfZXTaZA" tag="package filter" value=""/>
+  <taggedValue xmi:id="_twxtQTV3Ee-rSKPfZXTaZA" tag="Status" value=""/>
+  <taggedValue xmi:id="_twxtQjV3Ee-rSKPfZXTaZA" tag="Version" value="0.1"/>
+  <taggedValue xmi:id="_twxtQzV3Ee-rSKPfZXTaZA" tag="Purpose" value=""/>
+  <taggedValue xmi:id="_twxtRDV3Ee-rSKPfZXTaZA" tag="Description" value=""/>
+  <taggedValue xmi:id="_twxtRTV3Ee-rSKPfZXTaZA" tag="Author" value=""/>
+  <taggedValue xmi:id="_twxtRjV3Ee-rSKPfZXTaZA" tag="otherParameter"/>
+  <parameters xmi:id="_twPhwjV3Ee-rSKPfZXTaZA" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+</TalendMetadata:DatabaseConnection>

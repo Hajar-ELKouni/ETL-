@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_ERN0MTSPEe-dAdLdqnwK-w" id="_ERN0MDSPEe-dAdLdqnwK-w" label="OracleDropTargetTable" version="0.1" item="_ERN0MzSPEe-dAdLdqnwK-w">
+    <author href="../../../talend.project#_DFC8ADSPEe-dAdLdqnwK-w"/>
+    <additionalProperties xmi:id="_ERPCUDSPEe-dAdLdqnwK-w" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_ERPCUTSPEe-dAdLdqnwK-w" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_ERPCUjSPEe-dAdLdqnwK-w" key="created_date" value="2024-06-27T16:10:54.325+0200"/>
+    <additionalProperties xmi:id="_ERPCUzSPEe-dAdLdqnwK-w" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_ERPCVDSPEe-dAdLdqnwK-w" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_ERPpYDSPEe-dAdLdqnwK-w" key="modified_date" value="2024-06-27T16:10:54.325+0200"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_ERN0MjSPEe-dAdLdqnwK-w" path="Oracle/system"/>
+  <TalendProperties:SQLPatternItem xmi:id="_ERN0MzSPEe-dAdLdqnwK-w" property="_ERN0MTSPEe-dAdLdqnwK-w" state="_ERN0MjSPEe-dAdLdqnwK-w" system="true" eltName="Oracle">
+    <content href="OracleDropTargetTable_0.1.item#/"/>
+  </TalendProperties:SQLPatternItem>
+</xmi:XMI>

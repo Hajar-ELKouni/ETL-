@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_EKlnwTSPEe-dAdLdqnwK-w" id="_EKlnwDSPEe-dAdLdqnwK-w" label="DeltaLakeDropTable" version="0.1" item="_EKlnwzSPEe-dAdLdqnwK-w">
+    <author href="../../../talend.project#_DFC8ADSPEe-dAdLdqnwK-w"/>
+    <additionalProperties xmi:id="_EKm14DSPEe-dAdLdqnwK-w" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_EKm14TSPEe-dAdLdqnwK-w" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_EKm14jSPEe-dAdLdqnwK-w" key="created_date" value="2024-06-27T16:10:53.630+0200"/>
+    <additionalProperties xmi:id="_EKm14zSPEe-dAdLdqnwK-w" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_EKm15DSPEe-dAdLdqnwK-w" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_EKnc8DSPEe-dAdLdqnwK-w" key="modified_date" value="2024-06-27T16:10:53.630+0200"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_EKlnwjSPEe-dAdLdqnwK-w" path="DeltaLake/system"/>
+  <TalendProperties:SQLPatternItem xmi:id="_EKlnwzSPEe-dAdLdqnwK-w" property="_EKlnwTSPEe-dAdLdqnwK-w" state="_EKlnwjSPEe-dAdLdqnwK-w" system="true" eltName="DeltaLake">
+    <content href="DeltaLakeDropTable_0.1.item#/"/>
+  </TalendProperties:SQLPatternItem>
+</xmi:XMI>

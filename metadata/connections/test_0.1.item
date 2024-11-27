@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:DatabaseConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_CXXB0DWbEe-rSKPfZXTaZA" name="test" id="_AsSAEDWbEe-rSKPfZXTaZA" label="test" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://localhost:3306/Cube_olap?noDatetimeStringSync=true" dbVersionString="MYSQL_8" Port="3306" Username="root" Password="enc:system.encryption.key.v1:TMWDbhHdsycNRfbLuJ8CwG7dnXbvXrW/6r46QDAfvnl8zvuLd/PP5CMKr4Y=" ServerName="localhost" SID="Cube_olap" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false">
+  <taggedValue xmi:id="_CXXB0TWbEe-rSKPfZXTaZA" tag="Is Conn Need Reload" value="false"/>
+  <taggedValue xmi:id="_CXyfoDWbEe-rSKPfZXTaZA" tag="package filter" value=""/>
+  <taggedValue xmi:id="_CX0U0DWbEe-rSKPfZXTaZA" tag="Status" value=""/>
+  <taggedValue xmi:id="_CX0U0TWbEe-rSKPfZXTaZA" tag="Version" value="0.1"/>
+  <taggedValue xmi:id="_CX0U0jWbEe-rSKPfZXTaZA" tag="Purpose" value=""/>
+  <taggedValue xmi:id="_CX0U0zWbEe-rSKPfZXTaZA" tag="Description" value=""/>
+  <taggedValue xmi:id="_CX0U1DWbEe-rSKPfZXTaZA" tag="Author" value=""/>
+  <taggedValue xmi:id="_CX0U1TWbEe-rSKPfZXTaZA" tag="otherParameter"/>
+  <parameters xmi:id="_CXXB0jWbEe-rSKPfZXTaZA" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+</TalendMetadata:DatabaseConnection>

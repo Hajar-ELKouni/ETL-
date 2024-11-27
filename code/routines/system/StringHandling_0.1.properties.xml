@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_EGHXcTSPEe-dAdLdqnwK-w" id="_EGHXcDSPEe-dAdLdqnwK-w" label="StringHandling" version="0.1" item="_EGH-gTSPEe-dAdLdqnwK-w">
+    <author href="../../../talend.project#_DFC8ADSPEe-dAdLdqnwK-w"/>
+    <additionalProperties xmi:id="_EGJMoDSPEe-dAdLdqnwK-w" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_EGJMoTSPEe-dAdLdqnwK-w" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_EGJzsDSPEe-dAdLdqnwK-w" key="created_date" value="2024-06-27T16:10:53.162+0200"/>
+    <additionalProperties xmi:id="_EGJzsTSPEe-dAdLdqnwK-w" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_EGJzsjSPEe-dAdLdqnwK-w" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_EGJzszSPEe-dAdLdqnwK-w" key="modified_date" value="2024-06-27T16:10:53.162+0200"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_EGH-gDSPEe-dAdLdqnwK-w" path="system"/>
+  <TalendProperties:RoutineItem xmi:id="_EGH-gTSPEe-dAdLdqnwK-w" property="_EGHXcTSPEe-dAdLdqnwK-w" state="_EGH-gDSPEe-dAdLdqnwK-w" builtIn="true">
+    <content href="StringHandling_0.1.item#/"/>
+  </TalendProperties:RoutineItem>
+</xmi:XMI>

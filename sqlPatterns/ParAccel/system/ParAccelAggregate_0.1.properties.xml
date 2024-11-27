@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_ERgIETSPEe-dAdLdqnwK-w" id="_ERgIEDSPEe-dAdLdqnwK-w" label="ParAccelAggregate" version="0.1" item="_ERgIEzSPEe-dAdLdqnwK-w">
+    <author href="../../../talend.project#_DFC8ADSPEe-dAdLdqnwK-w"/>
+    <additionalProperties xmi:id="_ERh9QDSPEe-dAdLdqnwK-w" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_ERh9QTSPEe-dAdLdqnwK-w" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_ERh9QjSPEe-dAdLdqnwK-w" key="created_date" value="2024-06-27T16:10:54.355+0200"/>
+    <additionalProperties xmi:id="_ERh9QzSPEe-dAdLdqnwK-w" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_ERh9RDSPEe-dAdLdqnwK-w" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_ERh9RTSPEe-dAdLdqnwK-w" key="modified_date" value="2024-06-27T16:10:54.355+0200"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_ERgIEjSPEe-dAdLdqnwK-w" path="ParAccel/system"/>
+  <TalendProperties:SQLPatternItem xmi:id="_ERgIEzSPEe-dAdLdqnwK-w" property="_ERgIETSPEe-dAdLdqnwK-w" state="_ERgIEjSPEe-dAdLdqnwK-w" system="true" eltName="ParAccel">
+    <content href="ParAccelAggregate_0.1.item#/"/>
+  </TalendProperties:SQLPatternItem>
+</xmi:XMI>

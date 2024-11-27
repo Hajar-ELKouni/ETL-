@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_D20WMDSaEe-dAdLdqnwK-w" name="vendeur_doublons" dataPackage="_D20WMTSaEe-dAdLdqnwK-w" Server="Localhost 127.0.0.1" FilePath="C:/Users/hp/Desktop/M2I/S2/DATAWAREHOUSE/DATA/vendeur.xlsx" Encoding="ISO-8859-15" UseHeader="true" HeaderValue="1" FooterValue="0" LimitValue="" FirstLineCaption="true" SheetName="Sheet1" firstColumn="1" lastColumn="" thousandSeparator="," decimalSeparator="." selectAllSheets="true" sheetList="Sheet1:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_D20WMTSaEe-dAdLdqnwK-w" name="default" dataManager="_D20WMDSaEe-dAdLdqnwK-w">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_D20WMjSaEe-dAdLdqnwK-w" id="_7KyaMDSZEe-dAdLdqnwK-w" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_D20WMzSaEe-dAdLdqnwK-w" label="vendeurs" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_D20WNDSaEe-dAdLdqnwK-w" label="Column1" length="16" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_D20WNTSaEe-dAdLdqnwK-w" label="Column2" length="31" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_D20WNjSaEe-dAdLdqnwK-w" label="Column3" length="15" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_D20WNzSaEe-dAdLdqnwK-w" label="Column4" length="25" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

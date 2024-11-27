@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_n-6p4DVXEe-Nu_4k5qC4sg" name="Temp" id="_nBKoMDVXEe-Nu_4k5qC4sg" label="Temp" dataPackage="_oBYIADVXEe-Nu_4k5qC4sg" DatabaseType="MySQL" DriverClass="org.mariadb.jdbc.Driver" URL="jdbc:mariadb://localhost:3306/data_warehouse_vente?noDatetimeStringSync=true" dbVersionString="MARIADB" Port="3306" Username="root" Password="enc:system.encryption.key.v1:T8sBM0U/xORmiZDfBjEJ6H4G2BDw1PQt3HQXOm6Sx3KVoHw5SeSdVbNUGCk=" ServerName="localhost" SID="data_warehouse_vente" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false">
+    <taggedValue xmi:id="_n-6p4TVXEe-Nu_4k5qC4sg" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_n_zasDVXEe-Nu_4k5qC4sg" tag="package filter" value=""/>
+    <taggedValue xmi:id="_n_0BwDVXEe-Nu_4k5qC4sg" tag="Status" value=""/>
+    <taggedValue xmi:id="_n_0BwTVXEe-Nu_4k5qC4sg" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_n_0BwjVXEe-Nu_4k5qC4sg" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_n_0BwzVXEe-Nu_4k5qC4sg" tag="Description" value=""/>
+    <taggedValue xmi:id="_n_0BxDVXEe-Nu_4k5qC4sg" tag="Author" value=""/>
+    <taggedValue xmi:id="_n_0BxTVXEe-Nu_4k5qC4sg" tag="otherParameter"/>
+    <taggedValue xmi:id="_oA7cEDVXEe-Nu_4k5qC4sg" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_oA7cETVXEe-Nu_4k5qC4sg" tag="DB ProductVersion" value="8.0.37"/>
+    <taggedValue xmi:id="_oA7cEjVXEe-Nu_4k5qC4sg" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_n-6p4jVXEe-Nu_4k5qC4sg" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_oBYIADVXEe-Nu_4k5qC4sg" name="data_warehouse_vente" dataManager="_n-6p4DVXEe-Nu_4k5qC4sg"/>
+</xmi:XMI>
